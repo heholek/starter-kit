@@ -23,7 +23,7 @@
     "@babel/runtime": "^7.4.3",
     "@financial-times/g-deploy": "^3.0.10",
     "ajv": "^6.4.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-eslint": "^8.2.3",
     "babel-loader": "^8.0.0-beta.3",
     "bower": "^1.8.0",
